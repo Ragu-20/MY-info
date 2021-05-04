@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ragu-20
 - 👀 I’m interested in ...Software programming
 - 🌱 I’m currently learning ...B.E{ECE}
-- 💞️ I’m looking to collaborate on ...Cisco networking
+- 💞️ I’m looking to collaborate on ...Networking
 - 📫 How to reach me ...Twitter
 
 <!---
